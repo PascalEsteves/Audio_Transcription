@@ -1,0 +1,5 @@
+git+https://github.com/m-bain/whisperx.git --upgrade
+fastapi
+uvicorn
+pydantic
+typing_extensions
